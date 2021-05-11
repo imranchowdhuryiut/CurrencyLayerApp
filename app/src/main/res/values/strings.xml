@@ -1,0 +1,7 @@
+<resources>
+    <!--TODO: Update App Name -->
+    <string name="app_name">Currency Layer App</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_input_the_price">Please input the price</string>
+</resources>
